@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=ODA 데이터 수집기
+Comment=전력+진동 동시 데이터 수집 프로그램
+Exec=/home/power/Desktop/ODA_Measure/src/run_gui.sh
+Icon=/home/power/Desktop/ODA_Measure/odalogo_horizon.png
+Terminal=false
+Categories=Utility;
